@@ -1,0 +1,20 @@
+ .form{
+   width: 60%;
+   margin: 0 auto;
+   border: 2px solid black;
+ }
+ label{
+   font-size: 25px;
+ }
+ .first_name , .last_name, .email, .passwpord {
+   width: 90%;
+   height: 25px;
+   padding: 10px;
+   font-size: 18px; 
+ }
+ body{
+   background-color: aquamarine;
+ }
+ .form{
+   background-color: beige;
+ }
